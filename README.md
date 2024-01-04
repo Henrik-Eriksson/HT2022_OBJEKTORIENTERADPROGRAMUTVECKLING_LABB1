@@ -1,5 +1,5 @@
 # Laboration 1: Objektorienterad Programmering - RPN Kalkylator
-Labs done in pair with [11Johan11](www.github.com/11Johan11)
+Labs done in pair with [11Johan11](https://www.github.com/11Johan11)
 
 ## Kurs: Objektorienterad Programutveckling (TOCK12) - Hösten 2022
 
@@ -14,7 +14,7 @@ Laborationen innebar att skapa en RPN-kalkylator som följer dessa huvudmoment:
 
 ## Tekniska Detaljer
 - **Språk**: C# med .NET 6.0.
-- **Arkitektur**: Använda MVC (Model-View-Controller) arkitekturen.
+- **Arkitektur**: Använda MVC (Model-View-Controller) arkitekturen.h
 - **Uppdelning i Klasser**: Skapa klasser för modell (logik och data), vy (användargränssnitt) och kontroller (applikationsstyrning).
 - **Exception Hantering**: Implementera undantagshantering för fel i uttryck och beräkningar.
 - **Input/Output**: Hantera användarinmatning från konsol eller fil och skriv ut resultat till konsol eller fil.
