@@ -1,4 +1,5 @@
 # Laboration 1: Objektorienterad Programmering - RPN Kalkylator
+Labs done in pair with [11Johan11](https://www.https://github.com/11Johan11)
 
 ## Kurs: Objektorienterad Programutveckling (TOCK12) - Hösten 2022
 
